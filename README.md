@@ -1,5 +1,5 @@
-<p href="https://api.lanyard.rest/v1/users/453585632565002243" align="center" width="1000px">
-    <img src="https://lanyard.cnrad.dev/api/453585632565002243?borderRadius=30px"/>
+<p href="https://api.lanyard.rest/v1/users/1300768478747168819" align="center" width="1000px">
+    <img src="https://lanyard.cnrad.dev/api/1300768478747168819?borderRadius=30px"/>
 </p>
 
 
@@ -9,6 +9,6 @@
   </a>
 </p>
 
-<p href="https://discord.com/users/453585632565002243" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=swoxycan&theme=tokyonight&show_icons=true">
+<p href="https://discord.com/users/1300768478747168819" align="center">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=sikimaciyor&theme=tokyonight&show_icons=true">
 </p>
